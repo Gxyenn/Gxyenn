@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://youtube.com/c/XlasyGxyenn">
+<a href="https://www.youtube.com/@XlasyGxyenn">
     <img
         src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=f70787&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+Gxyenn;Welcome+to+my+GitHub+😊"
             alt="Typing SVG"
@@ -26,8 +26,8 @@
   <a href="https://t.me/XlasyGxyen"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
   <a href="https://youtube.com/c/Gxyenn"><img src="https://img.shields.io/badge/YouTube-Gxyenn -ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/@XlasyGxyenn" /><br>
   <a href="https://github.com/Gxyenn"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://youtube.com/XlasyGxyenn"><img src="https://img.shields.io/youtube/channel/subscribers/https://youtube.com/XlasyGxyenn?style=social" /> <br>
-  <a name=Gxyenn&label=VIEWS&style=flat-square&color=orange" />
+  <a href="https://youtube.com/XlasyGxyenn"><img src="https://img.shields.io/youtube/channel/subscribers/XlasyGxyenn?style=social" /> <br>
+  <a name=XlasyGxyenn&label=VIEWS&style=flat-square&color=orange" />
 </p>
 
 ### Github Stats 🚀
