@@ -24,7 +24,7 @@
   <a href="https://instagram.com/Gxyenn"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/6283877636168?text=mau_apa?"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://t.me/XlasyGxyen"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
-  <a href="https://youtube.com/c/XlasyGxyenn"><img src="https://img.shields.io/badge/YouTube-Gxyenn -ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/@XlasyGxyenn" /><br>
+  <a href="https://youtube.com/c/@XlasyGxyenn"><img src="https://img.shields.io/badge/YouTube-Gxyenn -ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/@XlasyGxyenn" /><br>
   <a href="https://github.com/Gxyenn"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://youtube.com/XlasyGxyenn"><img src="https://img.shields.io/youtube/channel/subscribers/@XlasyGxyenn?style=social" /> <br>
   <a name=XlasyGxyenn&label=VIEWS&style=flat-square&color=orange" />
