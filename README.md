@@ -37,6 +37,8 @@
 <p align="center"><a href="https://github.com/Gxyenn"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gxyenn&theme=chartreuse-dark&layout=compact"></a></p> 
 
 ### Repo Stats 🔭
+<p align=""><a href="https://github.com/Gxyenn/JavaEnc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gxyenn&repo=database&theme=chartreuse-dark"></a></p>
+
 <p align=""><a href="https://github.com/Gxyenn/XlesyVIPenc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gxyenn&repo=XlesyVIPenc&theme=chartreuse-dark"></a></p>
 
 <p align=""><a href="https://github.com/Gxyenn/database"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gxyenn&repo=database&theme=chartreuse-dark"></a></p>
