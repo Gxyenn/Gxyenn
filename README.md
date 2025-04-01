@@ -43,6 +43,8 @@
 
 <p align=""><a href="https://github.com/Gxyenn/database"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gxyenn&repo=database&theme=chartreuse-dark"></a></p>
 
+<p align=""><a href="https://github.com/Gxyenn/MyDev-info"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gxyenn&repo=MyDev-Info&theme=chartreuse-dark"></a></p>
+
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
