@@ -31,15 +31,26 @@
 <p align="center"><a href="https://github.com/Gxyenn"><img src="https://streak-stats.demolab.com/?user=Gxyenn&theme=chartreuse-dark"></a></p>
 <p align="center"><a href="https://github.com/Gxyenn"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gxyenn&theme=chartreuse-dark&layout=compact"></a></p> 
 
-### Repo Stats 🔭
-<p align=""><a href="https://github.com/Gxyenn/XLESYVIP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gxyenn&repo=XLESYVIP&theme=chartreuse-dark"></a></p>
-<p align=""><a href="https://github.com/Gxyenn/GxyennStore"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gxyenn&repo=GxyennStore&theme=chartreuse-dark"></a></p>
+<!-- Repo Stats -->
+<h3>Repo Stats 🔭</h3>
 
-<psrc="https://github-readme-stats.vercel.app/api/pin/?username=Gxyenn&repo=XLESYVIP&theme=chartreuse-dark"></a></p>
-<p align=""><a href="https://github.com/Gxyenn/GxyennStore"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gxyenn&repo=GxyennStore&theme=chartreuse-dark"></a></p>
+<p align="">
+  <a href="https://github.com/Gxyenn/XLESYVIP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gxyenn&repo=XLESYVIP&theme=chartreuse-dark">
+  </a>
+</p>
 
-<a href="https://github.com/Gxyenn/RestApi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gxyenn&repo=RestApi&theme=chartreuse-dark"></a>
+<p align="">
+  <a href="https://github.com/Gxyenn/GxyennStore">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gxyenn&repo=GxyennStore&theme=chartreuse-dark">
+  </a>
+</p>
 
+<p align="">
+  <a href="https://github.com/Gxyenn/RestApi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gxyenn&repo=RestApi&theme=chartreuse-dark">
+  </a>
+</p>
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
