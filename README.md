@@ -46,10 +46,9 @@
   </a>
 </p>
 
-<p align="">
-  <a href="https://github.com/Gxyenn/RestApi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gxyenn&repo=RestApi&theme=chartreuse-dark">
-  </a>
+<a href="https://github.com/Gxyenn/Rest-Api-Gxyenn">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gxyenn&repo=Rest-Api-Gxyenn&theme=chartreuse-dark">
+</a>
 </p>
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
