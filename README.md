@@ -32,14 +32,11 @@
 <p align="center"><a href="https://github.com/Gxyenn"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gxyenn&theme=chartreuse-dark&layout=compact"></a></p> 
 
 ### Repo Stats 🔭
-<p align=""><a href="https://github.com/Gxyenn/JavaEnc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gxyenn&repo=database&theme=chartreuse-dark"></a></p>
+<p align=""><a href="https://github.com/Gxyenn/XLESYVIP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gxyenn&repo=XLESYVIPc&theme=chartreuse-dark"></a></p>
 
-<p align=""><a href="https://github.com/Gxyenn/XlesyVIPenc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gxyenn&repo=XlesyVIPenc&theme=chartreuse-dark"></a></p>
+<p align=""><a href="https://github.com/Gxyenn/GxyennStore"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gxyenn&repo=GxyennStore&theme=chartreuse-dark"></a></p>
 
-<p align=""><a href="https://github.com/Gxyenn/database"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gxyenn&repo=database&theme=chartreuse-dark"></a></p>
-
-<p align=""><a href="https://github.com/Gxyenn/MyDev-info"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gxyenn&repo=MyDev-Info&theme=chartreuse-dark"></a></p>
-
+<p align=""><a href="https://github.com/Gxyenn/Rest-api-Gxyenn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gxyenn&repo=RestApi&theme=chartreuse-dark"></a></p>
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
