@@ -49,9 +49,9 @@
 <p align="center"><a href="https://github.com/Gxyenn"><img src="https://github-profile-trophy.vercel.app/?username=Gxyenn"></a></p>
 
 <details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
-
+    
 <p align="center"><a href="https://github.com/Gxyenn"><img src="https://metrics.lecoq.io/Gxyenn?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta"></a></p>
 
 </details> 
+
 
