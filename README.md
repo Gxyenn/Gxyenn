@@ -35,28 +35,16 @@
 <h3>Repo Stats 🔭</h3>
 
 <p align="">
-  <a href="https://github.com/Gxyenn/XLESYVIP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gxyenn&repo=XLESYVIP&theme=chartreuse-dark">
+  <a href="https://github.com/Gxyenn/Marine969">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gxyenn&repo=Marine969&theme=chartreuse-dark">
   </a>
 </p>
 
 <p align="">
-  <a href="https://github.com/Gxyenn/GxyennStore">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gxyenn&repo=GxyennStore&theme=chartreuse-dark">
+  <a href="https://github.com/Gxyenn/VelyTools-DownWebSoucre">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gxyenn&repo=VelyTools-DownWebSoucre&theme=chartreuse-dark">
   </a>
 </p>
-
-<a href="https://github.com/Gxyenn/Rest-Api-Gxyenn">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gxyenn&repo=Rest-Api-Gxyenn&theme=chartreuse-dark">
-</a>
-</p>
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
-<p align="center"><a href="https://github.com/Gxyenn"><img src="https://github-profile-trophy.vercel.app/?username=Gxyenn"></a></p> align=""><a href="https://github.com/Gxyenn/Rest-Api-Gxyenn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gxyenn&repo=RestApi&theme=chartreuse-dark"></a></p>
-
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
 <p align="center"><a href="https://github.com/Gxyenn"><img src="https://github-profile-trophy.vercel.app/?username=Gxyenn"></a></p>
 
