@@ -13,7 +13,7 @@
 - 🌱 I am currently learning JavaScript
 - 🎯 Play mobile legends With Me? ID 1521723641
 - 📧 My Business Email GxyennDEV@gmail.com
-- 💰 Donate For Me [Saweria](https://saweria.co/GxyennID) 
+- 💰 Donate For Me [Saweria](https://saweria.co/Gxyenn) 
 
 
 ### Connect with me ☎️
@@ -47,4 +47,5 @@
 </p>
 
 <p align="center"><a href="https://github.com/Gxyenn"><img src="https://github-profile-trophy.vercel.app/?username=Gxyenn"></a></p>
+
 
