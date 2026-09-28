@@ -20,7 +20,7 @@
 
 <div align="center">
 
-Salah satu hal yang aku kerjakan adalah **Kyora** — stream anime untuk Android.<br/>
+Salah satu hal yang aku kerjakan adalah **Kyora** — aplikasi stream anime sub Indo untuk Android.<br/>
 <sub>Aku suka membuat tampilan yang tenang, rapi, dan enak dipakai sehari-hari.</sub>
 
 </div>
@@ -40,7 +40,7 @@ Salah satu hal yang aku kerjakan adalah **Kyora** — stream anime untuk Android
 
 <img src="assets/kyora-face.png" width="76" alt="Ikon Kyora" />
 
-**Stream anime untuk Android.** Ringan, cepat, dan rapi.
+**Stream anime sub Indo untuk Android.** Ringan, cepat, dan rapi.
 
 <a href="https://github.com/Gxyenn/Kyora-app/releases/latest">
   <img src="https://img.shields.io/badge/UNDUH-8B5CF6?style=for-the-badge&labelColor=14121B&logo=android&logoColor=FFFFFF" alt="Unduh" />
