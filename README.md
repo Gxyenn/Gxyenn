@@ -20,7 +20,7 @@
 
 <div align="center">
 
-Salah satu hal yang aku kerjakan adalah **Kyora** — pemutar anime untuk Android.<br/>
+Salah satu hal yang aku kerjakan adalah **Kyora** — stream anime untuk Android.<br/>
 <sub>Aku suka membuat tampilan yang tenang, rapi, dan enak dipakai sehari-hari.</sub>
 
 </div>
@@ -40,7 +40,7 @@ Salah satu hal yang aku kerjakan adalah **Kyora** — pemutar anime untuk Androi
 
 <img src="assets/kyora-face.png" width="76" alt="Ikon Kyora" />
 
-**Pemutar anime untuk Android.** Ringan, cepat, dan rapi.
+**Stream anime untuk Android.** Ringan, cepat, dan rapi.
 
 <a href="https://github.com/Gxyenn/Kyora-app/releases/latest">
   <img src="https://img.shields.io/badge/UNDUH-8B5CF6?style=for-the-badge&labelColor=14121B&logo=android&logoColor=FFFFFF" alt="Unduh" />
@@ -64,7 +64,7 @@ Salah satu hal yang aku kerjakan adalah **Kyora** — pemutar anime untuk Androi
 <table>
 <tr>
 <td align="center" width="25%"><b>Beranda</b><br/><sub>Populer bergiliran<br/>dan chip genre</sub></td>
-<td align="center" width="25%"><b>Pemutar</b><br/><sub>Resolusi, kecepatan<br/>subtitle, layar penuh</sub></td>
+<td align="center" width="25%"><b>Streaming</b><br/><sub>Resolusi, kecepatan<br/>subtitle, layar penuh</sub></td>
 <td align="center" width="25%"><b>Koleksi</b><br/><sub>Bookmark dan riwayat<br/>yang ikut akun</sub></td>
 <td align="center" width="25%"><b>Komentar</b><br/><sub>Diskusi tiap episode,<br/>balasan bertingkat</sub></td>
 </tr>
