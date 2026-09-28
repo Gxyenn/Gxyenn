@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Gxyenn — pembuat Kyora">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A0813"/>
+      <stop offset="50%" stop-color="#08080F"/>
+      <stop offset="100%" stop-color="#100A20"/>
+    </linearGradient>
+    <radialGradient id="g1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.60"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#C084FC" stop-opacity="0.42"/>
+      <stop offset="100%" stop-color="#C084FC" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="50%" stop-color="#C4B5FD"/>
+      <stop offset="100%" stop-color="#FFFFFF"/>
+      <animate attributeName="x1" values="-1;1;-1" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;2;0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#A855F7"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="340" fill="url(#bg)"/>
+
+  <circle cx="300" cy="90" r="330" fill="url(#g1)">
+    <animate attributeName="cx" values="300;470;300" dur="17s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="90;180;90" dur="15s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="950" cy="270" r="340" fill="url(#g2)">
+    <animate attributeName="cx" values="950;760;950" dur="20s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="270;180;270" dur="18s" repeatCount="indefinite"/>
+  </circle>
+
+  <g fill="#C4B5FD">
+    <circle cx="180" cy="250" r="2.4" opacity="0.5">
+      <animate attributeName="cy" values="260;140;260" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.15;0.7;0.15" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="380" cy="170" r="1.8" opacity="0.4">
+      <animate attributeName="cy" values="180;80;180" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.1;0.6;0.1" dur="14s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="860" cy="120" r="2.2" opacity="0.45">
+      <animate attributeName="cy" values="130;260;130" dur="16s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.12;0.65;0.12" dur="16s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1060" cy="200" r="1.6" opacity="0.35">
+      <animate attributeName="cy" values="210;90;210" dur="13s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.1;0.55;0.1" dur="13s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <circle cx="600" cy="86" r="34" fill="none" stroke="url(#ring)" stroke-width="3" opacity="0.9">
+    <animateTransform attributeName="transform" type="rotate" from="0 600 86" to="360 600 86" dur="14s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="600" cy="86" r="10" fill="#8B5CF6"/>
+
+  <text x="600" y="182" text-anchor="middle"
+        font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+        font-size="76" font-weight="800" letter-spacing="9" fill="url(#name)">GXYENN</text>
+
+  <text x="600" y="228" text-anchor="middle"
+        font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+        font-size="18" font-weight="600" letter-spacing="6" fill="#B9B4C7">DEVELOPER · KYORA</text>
+
+  <rect x="470" y="252" width="260" height="2.5" rx="1.25" fill="#8B5CF6" opacity="0.85">
+    <animate attributeName="width" values="80;260;80" dur="6.5s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="560;470;560" dur="6.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
